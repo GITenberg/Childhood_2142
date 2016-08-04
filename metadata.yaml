@@ -1,0 +1,61 @@
+_repo: Childhood_2142
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hogarth, C. J.
+    gutenberg_agent_id: '835'
+    url: http://www.gutenberg.org/2009/agents/835
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Tolstoy, Lev N.
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: "Childhood (Russian: Детство, Detstvo) is the first published novel by\
+  \ Leo Tolstoy, released under the initials L. N. in the November 1852 issue of the\
+  \ popular Russian literary journal The Contemporary.\nIt is the first in a series\
+  \ of three novels and is followed by Boyhood and Youth. Published when Tolstoy was\
+  \ just twenty-three years old, the book was an immediate success, earning notice\
+  \ from other Russian novelists including Ivan Turgenev, who heralded the young Tolstoy\
+  \ as a major up-and-coming figure in Russian literature.\nChildhood is an exploration\
+  \ of the inner life of a young boy, Nikolenka, and one of the books in Russian writing\
+  \ to explore an expressionistic style, mixing fact, fiction and emotions to render\
+  \ the moods and reactions of the narrator.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2142'
+  wikidata: Q1766899
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moscow (Russia) -- Social conditions -- Fiction'
+- !lcsh 'Social problems -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Childhood
+url: http://www.gutenberg.org/ebooks/2142
+wikipedia:
+- https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A8%9A%E0%A8%AA%E0%A8%A8_(%E0%A8%A8%E0%A8%BE%E0%A8%B5%E0%A8%B2)
+- https://nl.wikipedia.org/wiki/Kindertijd
+- https://ro.wikipedia.org/wiki/Copil%C4%83ria_(roman)
+- https://ru.wikisource.org/wiki/%D0%94%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_(%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9)
+- https://es.wikipedia.org/wiki/Infancia_(novela)
+- https://sr.wikipedia.org/wiki/%D0%94%D0%B5%D1%82%D0%B8%D1%9A%D1%81%D1%82%D0%B2%D0%BE_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD_%D0%9B%D0%B0%D0%B2%D0%B0_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%98%D0%B5%D0%B2%D0%B8%D1%87%D0%B0_%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D1%98%D0%B0)
+- https://en.wikipedia.org/wiki/Childhood_(novel)
+- https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D1%82%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE_(%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9)
+- https://no.wikipedia.org/wiki/Barndom_(roman)
+- https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_(%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9)
+- https://ca.wikipedia.org/wiki/La_infantesa_(novel%C2%B7la)
+- https://az.wikipedia.org/wiki/U%C5%9Faql%C4%B1q_(%C9%99s%C9%99r)
+- https://mk.wikipedia.org/wiki/%D0%94%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_%D0%BE%D0%B4_%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D1%98)
+- https://fr.wikisource.org/wiki/Enfance_(Tolsto%C3%AF)
